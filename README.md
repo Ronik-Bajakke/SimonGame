@@ -67,7 +67,6 @@ SimonsGame/
 - Introduce difficulty levels
 - Optimize for mobile devices
 
----
 
 ## 📸 Preview  
 
@@ -79,8 +78,6 @@ Here are a few previews of the project:
 ![Amazon Clone Screenshot 2](https://raw.githubusercontent.com/ronik-bajakke/SimonGame/main/photo2.png) 
 **Game Score** 
 ![Amazon Clone Screenshot 3](https://raw.githubusercontent.com/ronik-bajakke/SimonGame/main/photo3.png)  
-
----
 
 
 ## 👨‍💻 Author
